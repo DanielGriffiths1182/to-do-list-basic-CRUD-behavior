@@ -6,7 +6,7 @@ def display_hello(person)
 end
 
 get '/' do
-  'Hello, buttholes'
+  'Hello, world'
 end
 
 get '/hello/:first_name/' do
